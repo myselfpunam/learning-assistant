@@ -1,0 +1,84 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        
+        "name": "Physics",
+        "seller": "Addidas",
+        "time": 60,
+        "bio": "Physics is the natural science of matter, involving the study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force",
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0IaGQX59yQaGbrZ9PRZ1M_6aSpT-Un2mSZA&usqp=CAU",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "category": "Men's Sneaker",
+        "name": "Chemistry",
+        "seller": "Addidas",
+        "time": 90,
+        "bio": "Chemistry is the scientific study of the properties and behavior of matter. It is a physical science under natural sciences that covers the elements that make up matter to the compounds made of atoms,",
+        "ratings": 5,
+        "ratingsCount": 4355,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJpjVKvbYEYakIJ3kag6nf316ZPcje9Tieg&usqp=CAU",
+        "shipping": 14,
+        "quantity": 0
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea10d4f7",
+        "category": "Men's Sneaker",
+        "name": "Mathematics",
+        "seller": "Addidas",
+        "time": 45,
+        "bio": "Mathematics is an area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes.",
+        "ratings": 4,
+        "ratingsCount": 3972,
+        "img": "https://t3.ftcdn.net/jpg/02/24/33/64/360_F_224336483_406SJlskqWEhmwdn5RrZpCb9rFIPCaA7.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "category": "English",
+        "name": "English",
+        "seller": "Addidas",
+        "time": 30,
+        "bio": "English is a West Germanic language in the Indo-European language family, whose speakers, called Anglophones, originated in early medieval England. The namesake of the language is the Angles, one of the ancient Germanic peoples that migrated to the island of Great Britain.",
+        "ratings": 4,
+        "ratingsCount": 3972,
+        "img": "https://t4.ftcdn.net/jpg/02/25/31/89/360_F_225318919_klpkRFyiJjxWdwLptzfeCX2Bo6QsBndm.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d5f7",
+        "category": "Men's Sneaker",
+        "name": "General Knowledge",
+        "seller": "Addidas",
+        "time": 30,
+        "bio": "General knowledge is information that has been accumulated over time through various media and sources. It excludes specialized learning that can only be obtained with extensive training and information confined to a single medium. General knowledge is an essential component of crystallized intelligence.",
+        "ratings": 4,
+        "ratingsCount": 3972,
+        "img": "https://static.langimg.com/photo/imgsize-30246,msid-87733999/navbharat-times.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    
+    {
+        "id": "ed6a7ac3-7e67-4e3f-8461-bceb5178be42",
+        "category": "Men's Pants",
+        "name": "Biology",
+        "seller": "Addidas",
+        "time": 45,
+        "bio": "Biology is the scientific study of life. It is a natural science with a broad scope but has several unifying themes that tie it together as a single, coherent field. For instance, all organisms are made up of cells that process hereditary information encoded in genes, which can be transmitted to future generations.",
+        "ratings": 3,
+        "ratingsCount": 3383,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZiMd3UkAS5aTJGRRKp_lWDFfwWsj50f1Rg&usqp=CAU",
+        "shipping": 26,
+        "quantity": 0
+    }
+    
+    
+    
+]
